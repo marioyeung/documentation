@@ -4,9 +4,6 @@ FILE:              xxx.js
 
 DESCRIPTION:       A brief description of this source code file ...
 
-COMPILER:          Tell another programmer what development tools were used
-                   to build the program
-
 NOTES:             Put other information here ...
 
 MODIFICATION HISTORY:
